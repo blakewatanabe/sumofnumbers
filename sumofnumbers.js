@@ -1,4 +1,5 @@
 const testNumList = [1, 2, 3, 4];
+// const _ = require('underscore');
 
 function sumFor(numList) {
   let sum = 0;

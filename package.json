@@ -7,7 +7,9 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.29.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "underscore": "^1.13.6"
+  },
   "scripts": {
     "lint": "eslint --ext .js .",
     "lint-fix": "eslint --fix --ext .js ."
